@@ -1,1 +1,1 @@
-# cyan9chinmay.github.io
+# Chess.com clone home page
