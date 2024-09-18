@@ -7,13 +7,13 @@ body {
 
 header {
     background-color: green;
-    color: gray;
+    color: white;
     padding: 1em 0;
     text-align: center;
 }
 
 header .logo h1 a {
-    color: gray ;
+    color: white ;
     text-decoration: none;
     font-size: 2em;
 }
